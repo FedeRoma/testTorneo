@@ -1,8 +1,0 @@
-Informacion Util de campeonato:
-
-http://cienciati.blogspot.com.ar/2011/06/ejercicio-campeonato-de-futbol.html
-
-http://www.forosdelweb.com/f18/ayuda-con-tabla-posiciones-futbol-simple-822086/
-
-Clave foranea:
-http://www.forosdelweb.com/f54/crear-tablas-relacionales-con-phpmyadmin-aporte-635242/
