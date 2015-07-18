@@ -1,0 +1,57 @@
+﻿Cambios en la pagina:
+cambiar colores #046C43
+R 04 G 108 B 67
+negro -> Verde
+celeste -> Imagen verde
+Blanco con escudos
+Fotos -> Equipos 
+		Tablas
+		General
+		Goleadores
+		Playoffs
+		
+Gris -> Sacarlo
+our team -> Sacarlo
+gris 2 -> X Jugadores, 
+			X Equipos
+			1 campeon
+			
+contactenos -> Queres jugar el torneo?
+Inscribite
+
+pedir a MKT:
+Imagen de portada tamaño: 1600*893 pix
+fotos de 370*370
+imagenes de banner verdes.
+
+
+PAGINAS DE JAVASCRIPTS
+filter
+https://mixitup.kunkalabs.com/
+
+Scroll animated
+http://mynameismatthieu.com/WOW/
+
+PopUp:
+http://dimsemenov.com/plugins/magnific-popup/documentation.html
+
+Fixture:
+http://bluebones.net/2005/05/league-fixtures-generator/
+
+15/07/15
+Cosas por hacer:
+
+ver lo del + de las fotos
+
+posiciones, fixtures
+
+sponsors
+
+logo
+
+favicon
+
+inscribite
+
+agregar tabla de opciones principales donde se setee:
+jugadores, equipos, campeon. y demas textos alusivos
